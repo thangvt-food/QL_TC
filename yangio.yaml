@@ -1,0 +1,25 @@
+slug: ql-tc
+name: QL Thu Chi
+tagline: Quản lý thu chi cá nhân trên web
+url: https://github.com/thangvt-food/QL_TC
+status: paused
+visibility: private
+description: Ứng dụng Next.js + Firebase quản lý thu chi, ngân sách và báo cáo tài chính cá nhân.
+tags:
+  - tài-chính
+  - thu-chi
+  - quản-lý
+category: finance
+tech:
+  - next
+  - react
+  - firebase
+  - tailwindcss
+hosting: firebase-hosting
+updated: '2025-09-29'
+version: 0.1.0
+icon: 💹
+auth: login
+links:
+  repo: https://github.com/thangvt-food/QL_TC
+notes: Repo public, có firebase.json và blueprint; chưa có URL deploy.
